@@ -1,1 +1,3 @@
+- Contributors:
+- Aryan Wadher 
 - Harshaadhithya Kalaikumar
